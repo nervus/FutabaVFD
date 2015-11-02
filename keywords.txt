@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For FutabaVFD
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+FutabaVFD	KEYWORD1	FutabaVFD
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+FutabaVFD KEYWORD2
+begin	KEYWORD2
+clear	KEYWORD2
+home	KEYWORD2
+print	KEYWORD2
+setCursor	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+VFD_CLEARSCREEN LITERAL1
+VFD_SETCURSOR LITERAL1
+VFD_INTENSITY LITERAL1
