@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-FutabaVFD	KEYWORD1	FutabaVFD
+FutabaVFD	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
